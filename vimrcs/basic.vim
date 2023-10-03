@@ -64,7 +64,6 @@ let mapleader = " "
 nmap <leader>w :w!<cr>
 
 " Fast close
-nmap <leader>q :q!<cr>
 nmap <leader>qa :qa!<cr>
 
 " :W sudo saves the file
