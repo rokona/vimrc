@@ -26,6 +26,8 @@ inoremap jk <esc>
 " Support mouse operation
 set mouse=a
 
+set number
+
 " Set the style of the cursor
 " 1 -> blinking block  闪烁的方块
 " 2 -> solid block  不闪烁的方块
